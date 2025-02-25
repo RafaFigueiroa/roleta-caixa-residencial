@@ -36,7 +36,7 @@ function App() {
   return (
     <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", width: "100vw", height: "100vh"}}>
       <div style={{ marginBottom: "30px"}}>
-        <h1 style={{ margin: "10px 0px 5px 0", verticalAlign: "middle"}}>Roleta do</h1>
+        <h1 style={{ margin: "10px 0px 5px 0", verticalAlign: "middle"}}>Roleta da</h1>
         <img src="https://sindelphos.delphos.com.br:8443/apex/cr/r/2050/files/static/v60/logo-caixa-residencial.png" alt="Logo Caixa Residencial" width={200} height={85.5}/>
       </div>
       <div style={{ textAlign: "center" }}>
